@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Esta es mi página de toería de Ramsey
+
+El principio de la teroía de Ramsey es que el desorden completo es imposible. Es decir, en cualquier desorden suficientemente grande hay partes ordenadas
 
 You can use the [editor on GitHub](https://github.com/isaacvazquez1/Ramsey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
